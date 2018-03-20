@@ -1,4 +1,4 @@
-# diplom
+# ...
 
 > A Vue.js project
 
